@@ -65,6 +65,11 @@
                             <constraint firstAttribute="trailingMargin" secondItem="n0T-UE-7ru" secondAttribute="trailing" id="eDQ-u0-geL"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="currencyLabel" destination="5fq-8C-bDM" id="Kbb-Il-fRF"/>
+                        <outlet property="currencyPicker" destination="n0T-UE-7ru" id="FYn-Rf-3po"/>
+                        <outlet property="valueLabel" destination="Z2y-Jo-CXY" id="9gu-ql-gte"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
