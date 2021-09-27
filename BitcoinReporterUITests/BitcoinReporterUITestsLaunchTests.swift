@@ -2,7 +2,7 @@
 //  BitcoinReporterUITestsLaunchTests.swift
 //  BitcoinReporterUITests
 //
-//  Created by Marcelo Rodrigues de Sousa on 24/09/21.
+//  Created by Giovanna Rodrigues on 24/09/21.
 //
 
 import XCTest
