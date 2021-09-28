@@ -17,6 +17,7 @@
 		9C750DCA26FE57ED00EADE44 /* BitcoinReporterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C750DC926FE57ED00EADE44 /* BitcoinReporterUITests.swift */; };
 		9C750DCC26FE57ED00EADE44 /* BitcoinReporterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C750DCB26FE57ED00EADE44 /* BitcoinReporterUITestsLaunchTests.swift */; };
 		9C750DD92702595A00EADE44 /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C750DD82702595A00EADE44 /* CoinManager.swift */; };
+		9C750DDE2703521400EADE44 /* ExchangeRateData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C750DDD2703521400EADE44 /* ExchangeRateData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		9C750DC926FE57ED00EADE44 /* BitcoinReporterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitcoinReporterUITests.swift; sourceTree = "<group>"; };
 		9C750DCB26FE57ED00EADE44 /* BitcoinReporterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitcoinReporterUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9C750DD82702595A00EADE44 /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
+		9C750DDD2703521400EADE44 /* ExchangeRateData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeRateData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				9C750DD82702595A00EADE44 /* CoinManager.swift */,
+				9C750DDD2703521400EADE44 /* ExchangeRateData.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C750DDE2703521400EADE44 /* ExchangeRateData.swift in Sources */,
 				9C750DD92702595A00EADE44 /* CoinManager.swift in Sources */,
 				9C750DAD26FE57E900EADE44 /* ViewController.swift in Sources */,
 				9C750DA926FE57E900EADE44 /* AppDelegate.swift in Sources */,
